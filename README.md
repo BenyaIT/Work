@@ -66,3 +66,15 @@ void PrintArray(string[] array)
 
 SecondArrayWithIF(array1, array2);
 PrintArray(array2);
+
+5. Использовать контроль версий в работе над этим небольшим проектом
+
+После каждого пункта делали коммиты командой 
+
+git add .\README.md
+
+git commit -m "текст коммита"
+
+Для отправки изменений в репозиторий  команда
+
+git push
